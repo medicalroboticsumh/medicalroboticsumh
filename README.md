@@ -16,5 +16,8 @@ The medical robotics group is a muldisciplinary team dedicated to the developmen
 [![Instagram](https://img.shields.io/badge/Instagram-@MedRobotics_UMH-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/MedRobotics_UMH)
 
 
-# Some of the group's projects
-UR3 Simulator:  [![GitHub](https://img.shields.io/badge/GitHub-UR3Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastian775/UR3Project) **_Montenegro-Bravo, J. S., Ruiz-Flórez, J. D., Romero-Ante, J. D., Manrique-Córdoba, J., Albán, O. A. V., & Sabater-Navarro, J. M. (2024). Generador 3D de trayectorias libres de colisiones para un manipulador UR3e con pinza blanda. Revista Iberoamericana de Automática e Informática industrial, 21(1), 52-61_**
+# Selected group's projects (more in repositories)
+**_UR3 Simulator:_**  [![GitHub](https://img.shields.io/badge/GitHub-UR3Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastian775/UR3Project) Reference: Montenegro-Bravo, J. S., Ruiz-Flórez, J. D., Romero-Ante, J. D., Manrique-Córdoba, J., Albán, O. A. V., & Sabater-Navarro, J. M. (2024). Generador 3D de trayectorias libres de colisiones para un manipulador UR3e con pinza blanda. Revista Iberoamericana de Automática e Informática industrial, 21(1), 52-61
+
+**_Multi UR Interfaz (UR3e+ UR5e):_**  [![GitLab](https://img.shields.io/badge/GitLab-MultiURInterfaz-181717?style=flat-square&logo=github&logoColor=white)](https://gitlab.com/ur-interfaz/multi-ur-interfaz) Reference: Ángel H. Garzón-Sarzosa, Jhoan S. Sarria-Flórez, Juan D. Romero-Ante, Óscar A. Vivas-Albán, and José M. Sabater-NavarroDigital Twin of a multi-arm surgical robotic system and integration into ROS2 (2025).
+
