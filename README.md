@@ -21,3 +21,7 @@ The medical robotics group is a muldisciplinary team dedicated to the developmen
 
 **_Multi UR Interfaz (UR3e+ UR5e):_**  [![GitLab](https://img.shields.io/badge/GitLab-MultiURInterfaz-181717?style=flat-square&logo=github&logoColor=white)](https://gitlab.com/ur-interfaz/multi-ur-interfaz) Reference: Ángel H. Garzón-Sarzosa, Jhoan S. Sarria-Flórez, Juan D. Romero-Ante, Óscar A. Vivas-Albán, and José M. Sabater-NavarroDigital Twin of a multi-arm surgical robotic system and integration into ROS2 (2025).
 
+**_Interfaz del proyecto RACE:_**  [![GitHub](https://img.shields.io/badge/GitHub-InterfazRace-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArnauBN/InterfazRACE) Reference: PID2019-111023RB-C32 Evaluación de las suturas de un sistema robótico para anastomosis. Ministerio de Ciencia e Innovación.
+
+
+
