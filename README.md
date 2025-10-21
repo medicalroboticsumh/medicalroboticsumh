@@ -12,7 +12,7 @@ The medical robotics group is a muldisciplinary team dedicated to the developmen
 
 ## Find us on:
 [![YouTube](https://img.shields.io/badge/YouTube-Medical_Robotics_UMH-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@grupoinvestigacionnbio3463)
-[![X](https://img.shields.io/badge/X-@MedRobotics_UMH-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://twitter.com/medrobotics_UMH)
+[![X](https://img.shields.io/badge/X-@MedRobotics_UMH-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://twitter.com/medrobotics_UMH)
 [![Instagram](https://img.shields.io/badge/Instagram-@MedRobotics_UMH-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/MedRobotics_UMH)
 
 
