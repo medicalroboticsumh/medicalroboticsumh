@@ -23,6 +23,6 @@ The medical robotics group is a muldisciplinary team dedicated to the developmen
 
 **_Interfaz del proyecto RACE:_**  [![GitHub](https://img.shields.io/badge/GitHub-InterfazRace-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArnauBN/InterfazRACE) Reference: PID2019-111023RB-C32 Evaluación de las suturas de un sistema robótico para anastomosis. Ministerio de Ciencia e Innovación.
 
-**_Publicación de datos a través de ROS desde Geomagic Touch (Private):_**  [![GitHub](https://img.shields.io/badge/GitHub-Geomagic Touch-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mariabrotons/Publicacion-de-datos-a-traves-de-ROS-desde-Geomagic-Touch.git) 
+**_Publicación de datos a través de ROS desde Geomagic Touch (Private):_**  [![GitHub](https://img.shields.io/badge/GitHub-GeomagicTouch-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mariabrotons/Publicacion-de-datos-a-traves-de-ROS-desde-Geomagic-Touch.git) 
 
-**_MultiDimensional Data HMM Implementation Example:_** [![GitHub](https://img.shields.io/badge/GitHub-HMM Implementation-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jmanri/MultiDimensionalDataHMMImplementationExample.git) 
+**_MultiDimensional Data HMM Implementation Example:_** [![GitHub](https://img.shields.io/badge/GitHub-HMMImplementation-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jmanri/MultiDimensionalDataHMMImplementationExample.git) 
