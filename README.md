@@ -25,5 +25,5 @@ The medical robotics group is a muldisciplinary team dedicated to the developmen
 
 **_Publicación de datos a través de ROS desde Geomagic Touch (Private):_**  [![GitHub](https://img.shields.io/badge/GitHub-GeomagicTouch-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mariabrotons/Publicacion-de-datos-a-traves-de-ROS-desde-Geomagic-Touch.git) 
 
-**_MultiDimensional Data HMM Implementation Example:_** [![GitHub](https://img.shields.io/badge/GitHub-HMMImplementation-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jmanri/MultiDimensionalDataHMMImplementationExample.git) 
+**_MultiDimensional Data HMM Implementation Example:_** [![GitHub](https://img.shields.io/badge/GitHub-HMMImplementation-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/medicalroboticsumh/MultiDimensionalDataHMMImplementationExample.git) 
 
