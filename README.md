@@ -27,5 +27,3 @@ The medical robotics group is a muldisciplinary team dedicated to the developmen
 
 **_MultiDimensional Data HMM Implementation Example:_** [![GitHub](https://img.shields.io/badge/GitHub-HMMImplementation-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jmanri/MultiDimensionalDataHMMImplementationExample.git) 
 
-**_Bluetooth system HomeITB:_** [![GitHub](https://img.shields.io/badge/GitHub-HMMImplementation-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/jmanri/MultiDimensionalDataHMMImplementationExample.git](https://github.com/medicalroboticsumh/Prueba1_BLE.git)) 
-
